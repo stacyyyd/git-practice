@@ -13,6 +13,7 @@ def silly_sum():
 
         num = int(input('Please enter a number => '))
 
+    print(sum +sum)
     return sum
 
 
